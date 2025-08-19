@@ -342,6 +342,7 @@ body{
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	margin-top: -85px;
 }
 
 .cemera-control:active{ cursor: grabbing; }
@@ -538,7 +539,7 @@ body.dark-mode #whiteboard-header {
     border-bottom: 1px solid #444;
 }
 
-.iit-p {
+/*.iit-p {
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -553,10 +554,10 @@ body.dark-mode #whiteboard-header {
 	align-items: center;
 	justify-content: center;
 	z-index: 1100;
-}
+}*/
 
 
-.iit-p img {
-    width: 120px; /* ensures image scales with container */
-    height: 120px;
-}
+/*.iit-p img {
+    width: 120px;*/ /* ensures image scales with container */
+    /*height: 120px;
+}*/
